@@ -1,5 +1,5 @@
 # Undergraduate_Final-Year-Project
-Project Description:
+**Project Description:**
 During the pandemic of Covid-19, people all over the world have been
 affected, ranging from ordinary people to organizations, geopolitical entities,
 and entire countries. People have been expressing their sentiments about the
@@ -15,8 +15,8 @@ People started to express their thoughts as posts on social media platforms
 such as Twitter. As a result, an enormous amount of data gets generated, and
 the analysis of this data will benefit mankind.
 
-Programming Language: Python
+**Programming Language:** Python
 
 
-Technology Used: Text Mining, Machine Learning, Natural Language
+**Technology Used:** Text Mining, Machine Learning, Natural Language
 Processing
